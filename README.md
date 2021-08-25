@@ -9,7 +9,7 @@ Resources and tools for electric machines and wireless power transfer systems
 - [TPE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63) IEEE Transactions on Power Electronics
 - [TII](http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics) IEEE Transactions on Industrial Informatics
 - [TMAG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=20) IEEE Transactions on Magnetics
-
+- [ENERGIES](https://www.mdpi.com/journal/energies) Energies
 ## 1.2 会议
 
 - COMPUMAG
