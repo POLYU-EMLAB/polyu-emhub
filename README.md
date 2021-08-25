@@ -33,11 +33,13 @@ Resources and tools for electric machines and wireless power transfer systems
 - [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
 - [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
 
-# 3. 特别主题
+# 3. 特别主题 Special issue
 
 ## 3.1 冻结磁导率
 
 - [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理，姜霁芙正在预备整理。
+
+## 3.2 双转子电机
 
 # 4. 视频资源
 
