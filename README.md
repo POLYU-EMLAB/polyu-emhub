@@ -4,8 +4,8 @@ Resources and tools for electric machines and wireless power transfer systems
 # 视频资源
 
 ## 可以关注的up主
-- [我是大鳄鱼](https://space.bilibili.com/37260118)
-- [豪底狄](https://space.bilibili.com/7132537/dynamic)
+- [我是大鳄鱼](https://space.bilibili.com/37260118) 据说来自华中
+- [豪底狄](https://space.bilibili.com/7132537/dynamic) 浙大博士，目前方向为无轴承感应电机、控制、电机设计相关软件等
 
 
 ## Maxwell 操作
