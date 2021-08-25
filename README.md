@@ -1,5 +1,4 @@
 # emTools
-
 Resources and tools for electric machines and wireless power transfer systems
 
 # 论文相关
@@ -62,4 +61,5 @@ Resources and tools for electric machines and wireless power transfer systems
 # 工具
 
 - [pyaedt](https://aedtdocs.pyansys.com/) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop
+- [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) For arranging windings for AC/DC machines in ANSYS Maxwell 2D/3D. 作者江明远
 - [getPF](https://github.com/POLYU-EMLAB/getPF) 用C++和matlab写的求功率因数的程序，作者吴会欢，2017年写的，如果有问题请至issue留言
