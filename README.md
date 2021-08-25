@@ -19,11 +19,22 @@ Resources and tools for electric machines and wireless power transfer systems
 - 最大转矩/电流角丨内置V型转子丨Maxwell电机仿真丨罗小黑战记
 [b站链接](https://www.bilibili.com/video/BV1yA411g7oK)
 
+# 工具
+- [pyaedt](https://aedtdocs.pyansys.com/) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop
+- [getPF](https://github.com/POLYU-EMLAB/getPF) 用C++和matlab写的求功率因数的程序，作者吴会欢，2017年写的，如果有问题请至issue留言
 # 论文
 
-## 退磁
+## 可以关注的作者
+### 世界范围
+正在收集……
+### 实验室
+- [Weinong Fu](https://scholar.google.com/citations?user=itDH2QIAAAAJ&hl=zh-CN&oi=sra) 
+- [Shuangxia Niu](https://scholar.google.com/citations?user=lIH-GZIAAAAJ&hl=zh-CN&oi=ao)
+- [Xing Zhao](https://scholar.google.com/citations?user=CvpxdLgAAAAJ&hl=zh-CN&oi=sra)
+
 
 ## 冻结磁导率
+- [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理
 
 # 文档
 
