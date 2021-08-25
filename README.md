@@ -37,8 +37,7 @@ Resources and tools for electric machines and wireless power transfer systems
 
 ## 3.1 冻结磁导率
 
-- [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理
-
+- [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理，姜霁芙正在预备整理。
 
 # 4. 视频资源
 
