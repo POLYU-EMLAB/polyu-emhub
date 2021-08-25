@@ -3,6 +3,11 @@ Resources and tools for electric machines and wireless power transfer systems
 
 # 视频资源
 
+## 可以关注的up主
+- [我是大鳄鱼](https://space.bilibili.com/37260118)
+- [豪底狄](https://space.bilibili.com/7132537/dynamic)
+
+
 ## Maxwell 操作
 - 效率、功率因数计算
 [b站链接](https://www.bilibili.com/video/BV1MZ4y1F7dv)
