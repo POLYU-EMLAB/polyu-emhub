@@ -1,12 +1,13 @@
 # emTools
 Resources and tools for electric machines and wireless power transfer systems
 
-# 视频资源
 
-## 可以关注的up主
+# 可以关注的up主
 - [我是大鳄鱼](https://space.bilibili.com/37260118) 据说来自华中
 - [豪底狄](https://space.bilibili.com/7132537/dynamic) 浙大博士，目前方向为无轴承感应电机、控制、电机设计相关软件等
 
+
+# 视频资源
 
 ## Maxwell 操作
 - 效率、功率因数计算
@@ -24,4 +25,8 @@ Resources and tools for electric machines and wireless power transfer systems
 
 ## 冻结磁导率
 
+# 文档
+
+- [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
+- [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
 
