@@ -41,7 +41,7 @@ Resources and tools for electric machines and wireless power transfer systems
 - [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
 - [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
 
-# 3. 特别主题 Special issue
+# 3. 特别主题 / Special issue
 
 ## 3.1 冻结磁导率 / Frozen Permeability
 
@@ -72,14 +72,17 @@ AnsysEM的版本必须是21.x，如果是之前版本，则不包含scipy。也�
 本次发布的是一个IPM转子UDP模型，该模型支持V、一、双V、双一、V一等组合的磁钢结构，同时支持转子表面辅助槽
 [[3]](https://mp.weixin.qq.com/s/VoS69h_77vRAndxsIJejzQ)
 
+## 3.4 机器学习与电机 / Machine learning and electric machines
 
 # 4. 视频资源 / Video resources
 
-## 4.1 可以关注的up主 / The ups you can follow
+## 4.1 可以关注的up主 / The people you can follow
 
 - [我是大鳄鱼](https://space.bilibili.com/37260118) 据说来自华中
 - [豪底狄](https://space.bilibili.com/7132537/dynamic) 浙大博士[陈嘉豪](https://horychen.github.io)，
 目前方向为无轴承感应电机、控制、电机设计相关软件等，目前在NTU。
+- [Mark Weng](https://mark-weng.com) Mark Weng, 电机设计工程师&程序员，目前在台湾“國家高速網路與計算中心”工作。最近似乎在开发基于
+AI的电机设计系统。
 
 ## 4.2 Maxwell 操作 / Maxwell Hints
 
@@ -99,7 +102,7 @@ AnsysEM的版本必须是21.x，如果是之前版本，则不包含scipy。也�
   2D/3D中为交流/直流电机排绕组及计算槽星型矢量图、相关参数。作者江明远，欢迎发送邮件至nmyjiang@foxmail.com或直接找他debug。
 - [getPF](https://github.com/POLYU-EMLAB/getPF) 用C++和matlab写的求功率因数的程序，作者吴会欢，2017年写的，如果有问题请至issue留言。
 - [Electrical Machines Design Automation by Ansys Maxwell Script](https://github.com/MarkWengSTR/ansys-maxwell-EM-design-online)
-  It is a Electrical Machines Design Automation by Ansys Maxwell Script. 从事电机设计的台湾同学写的，搞得很好。
+  It is a Electrical Machines Design Automation by Ansys Maxwell Script. 从事电机设计的台湾小哥Mark Weng写的，搞得很好。
 - [Platypus](https://github.com/Project-Platypus/Platypus) 一个简单好用的进化算法库，编程语言python，可用于电机优化
 - [scipy.fft](https://docs.scipy.org/doc/scipy/reference/tutorial/fft.html) scipy包中的fft模块，可用于谐波分析、寻找功角、
 计算功率因数等。AEDT程序目录中自带。具体路径在
