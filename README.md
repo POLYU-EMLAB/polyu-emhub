@@ -3,21 +3,15 @@
 Resources and tools for electric machines and wireless power transfer systems
 ## 目录
 
-- [1. 论文相关 / Papers](#head1)
-	- [1.1 期刊 / Journals](#head2)
-	- [1.2 会议 / Conferences](#head3)
-	- [1.3作者 / Authors](#head4)
-		- [1.3.1 实验室 / Lab](#head5)
-		- [1.3.2 世界范围 / Worldwide](#head6)
-- [2. 文档 / Useful documents](#head7)
-- [3. 特别主题 / Special issue](#head8)
-	- [3.1 冻结磁导率 / Frozen Permeability](#head9)
-	- [3.2 双转子电机 / ](#head10)
-	- [3.3 电机优化 / Optimal design of electric machines](#head11)
+* [5. 工具 / Tools](#5---工具---tools)
 
-# <span id="head1">1. 论文相关 / Papers</span>
+常用简写 / Abbreviations ：
+- AEDT: ANSYS Electronics Desktop，ANSYS推出的电磁套件，包含Maxwell，HFSS，Simplorer等。
 
-## <span id="head2">1.1 期刊 / Journals</span>
+
+# 1. 论文相关 / Papers
+
+## 1.1 期刊 / Journals
 
 - [TIE](http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics) IEEE Transactions on Industrial Electronics
 - [TPE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63) IEEE Transactions on Power Electronics
@@ -25,41 +19,41 @@ Resources and tools for electric machines and wireless power transfer systems
 - [TMAG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=20) IEEE Transactions on Magnetics
 - [ENERGIES](https://www.mdpi.com/journal/energies) Energies
 
-## <span id="head3">1.2 会议 / Conferences</span>
+## 1.2 会议 / Conferences
 
 - COMPUMAG
 - Intermag
 - CEFC
 
-## <span id="head4">1.3作者 / Authors</span>
+## 1.3作者 / Authors
 
-### <span id="head5">1.3.1 实验室 / Lab</span>
+### 1.3.1 实验室 / Lab
 
 - [Weinong Fu](https://scholar.google.com/citations?user=itDH2QIAAAAJ&hl=zh-CN&oi=sra)
 - [Shuangxia Niu](https://scholar.google.com/citations?user=lIH-GZIAAAAJ&hl=zh-CN&oi=ao)
 - [Xing Zhao](https://scholar.google.com/citations?user=CvpxdLgAAAAJ&hl=zh-CN&oi=sra)
 
-### <span id="head6">1.3.2 世界范围 / Worldwide</span>
+### 1.3.2 世界范围 / Worldwide
 
 - [Thomas A. Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ&hl=zh-CN&oi=ao)
 - [K.T. Chau](https://scholar.google.com/citations?user=5wptXfQAAAAJ&hl=zh-CN)
 
 持续收集中……
 
-# <span id="head7">2. 文档 / Useful documents</span>
+# 2. 文档 / Useful documents
 
 - [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
 - [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
 
-# <span id="head8">3. 特别主题 / Special issue</span>
+# 3. 特别主题 / Special issue
 
-## <span id="head9">3.1 冻结磁导率 / Frozen Permeability</span>
+## 3.1 冻结磁导率 / Frozen Permeability
 
 - [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理，姜霁芙正在预备整理。
 
-## <span id="head10">3.2 双转子电机 / </span>
+## 3.2 双转子电机 / 
 
-## <span id="head11">3.3 电机优化 / Optimal design of electric machines</span>
+## 3.3 电机优化 / Optimal design of electric machines
 
 - [如何进行永磁同步电机全局优化设计](https://zhuanlan.zhihu.com/p/43476298) 知乎老哥写的挺好的，可以作为入门教程学习一下流程
 - [Platypus](https://github.com/Project-Platypus/Platypus) 一个简单好用的进化算法库，编程语言python，可用于电机优化
