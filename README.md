@@ -78,7 +78,8 @@ AnsysEM的版本必须是21.x，如果是之前版本，则不包含scipy。也�
 ## 4.1 可以关注的up主 The ups you can follow
 
 - [我是大鳄鱼](https://space.bilibili.com/37260118) 据说来自华中
-- [豪底狄](https://space.bilibili.com/7132537/dynamic) 浙大博士，目前方向为无轴承感应电机、控制、电机设计相关软件等
+- [豪底狄](https://space.bilibili.com/7132537/dynamic) 浙大博士[陈嘉豪](https://horychen.github.io)，
+目前方向为无轴承感应电机、控制、电机设计相关软件等，目前在NTU。
 
 ## 4.2 Maxwell 操作 / Maxwell Hints
 
