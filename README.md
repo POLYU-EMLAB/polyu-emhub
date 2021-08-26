@@ -2,34 +2,22 @@
 
 Resources and tools for electric machines and wireless power transfer systems
 ## 目录
-- [1. 论文相关 / Papers](#1--------papers)
-  * [1.1 期刊 / Journals](#11------journals)
-  * [1.2 会议 / Conferences](#12------conferences)
-  * [1.3作者 / Authors](#13-----authors)
-    + [1.3.1 实验室 / Lab](#131-------lab)
-    + [1.3.2 世界范围 / Worldwide](#132--------worldwide)
-- [2. 文档 / Useful documents](#2------useful-documents)
-- [3. 特别主题 / Special issue](#3--------special-issue)
-  * [3.1 冻结磁导率 / Frozen Permeability](#31---------frozen-permeability)
-  * [3.2 双转子电机 /](#32--------)
-  * [3.3 电机优化 / Optimal design of electric machines](#33--------optimal-design-of-electric-machines)
-  * [3.x 机器学习与电机 / Machine learning and electric machines](#3x-----------machine-learning-and-electric-machines)
-- [4. 视频资源 / Video resources](#4--------video-resources)
-  * [4.1 可以关注的up主 / The people you can follow](#41------up----the-people-you-can-follow)
-  * [4.2 Maxwell 操作 / Maxwell Hints](#42-maxwell------maxwell-hints)
-- [Tools](#tools)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [1. 论文相关 / Papers](#head1)
+	- [1.1 期刊 / Journals](#head2)
+	- [1.2 会议 / Conferences](#head3)
+	- [1.3作者 / Authors](#head4)
+		- [1.3.1 实验室 / Lab](#head5)
+		- [1.3.2 世界范围 / Worldwide](#head6)
+- [2. 文档 / Useful documents](#head7)
+- [3. 特别主题 / Special issue](#head8)
+	- [3.1 冻结磁导率 / Frozen Permeability](#head9)
+	- [3.2 双转子电机 / ](#head10)
+	- [3.3 电机优化 / Optimal design of electric machines](#head11)
 
+# <span id="head1">1. 论文相关 / Papers</span>
 
-
-常用简写 / Abbreviations ：
-- AEDT: ANSYS Electronics Desktop，ANSYS推出的电磁套件，包含Maxwell，HFSS，Simplorer等。
-
-
-# 1. 论文相关 / Papers
-
-## 1.1 期刊 / Journals
+## <span id="head2">1.1 期刊 / Journals</span>
 
 - [TIE](http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics) IEEE Transactions on Industrial Electronics
 - [TPE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63) IEEE Transactions on Power Electronics
@@ -37,41 +25,41 @@ Resources and tools for electric machines and wireless power transfer systems
 - [TMAG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=20) IEEE Transactions on Magnetics
 - [ENERGIES](https://www.mdpi.com/journal/energies) Energies
 
-## 1.2 会议 / Conferences
+## <span id="head3">1.2 会议 / Conferences</span>
 
 - COMPUMAG
 - Intermag
 - CEFC
 
-## 1.3作者 / Authors
+## <span id="head4">1.3作者 / Authors</span>
 
-### 1.3.1 实验室 / Lab
+### <span id="head5">1.3.1 实验室 / Lab</span>
 
 - [Weinong Fu](https://scholar.google.com/citations?user=itDH2QIAAAAJ&hl=zh-CN&oi=sra)
 - [Shuangxia Niu](https://scholar.google.com/citations?user=lIH-GZIAAAAJ&hl=zh-CN&oi=ao)
 - [Xing Zhao](https://scholar.google.com/citations?user=CvpxdLgAAAAJ&hl=zh-CN&oi=sra)
 
-### 1.3.2 世界范围 / Worldwide
+### <span id="head6">1.3.2 世界范围 / Worldwide</span>
 
 - [Thomas A. Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ&hl=zh-CN&oi=ao)
 - [K.T. Chau](https://scholar.google.com/citations?user=5wptXfQAAAAJ&hl=zh-CN)
 
 持续收集中……
 
-# 2. 文档 / Useful documents
+# <span id="head7">2. 文档 / Useful documents</span>
 
 - [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
 - [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
 
-# 3. 特别主题 / Special issue
+# <span id="head8">3. 特别主题 / Special issue</span>
 
-## 3.1 冻结磁导率 / Frozen Permeability
+## <span id="head9">3.1 冻结磁导率 / Frozen Permeability</span>
 
 - [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理，姜霁芙正在预备整理。
 
-## 3.2 双转子电机 / 
+## <span id="head10">3.2 双转子电机 / </span>
 
-## 3.3 电机优化 / Optimal design of electric machines
+## <span id="head11">3.3 电机优化 / Optimal design of electric machines</span>
 
 - [如何进行永磁同步电机全局优化设计](https://zhuanlan.zhihu.com/p/43476298) 知乎老哥写的挺好的，可以作为入门教程学习一下流程
 - [Platypus](https://github.com/Project-Platypus/Platypus) 一个简单好用的进化算法库，编程语言python，可用于电机优化
@@ -117,7 +105,7 @@ AI的电机设计系统。
 - 最大转矩/电流角丨内置V型转子丨Maxwell电机仿真丨罗小黑战记
   [b站链接](https://www.bilibili.com/video/BV1yA411g7oK)
 
-# 工具 / Tools
+# 5. 工具 / Tools
 
 - [pyaedt](https://github.com/pyansys/PyAEDT) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
 - [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) 在ANSYS Maxwell
