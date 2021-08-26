@@ -1,12 +1,12 @@
 # emTools
 
 Resources and tools for electric machines and wireless power transfer systems
-- [emTools](#emtools)
-  - [论文相关 / Papers](#1---papers)
-  - [文档 / Useful documents](#2---useful-documents)
-  - [3. 特别主题 / Special issue](#3---special-issue)
-  - [4. 视频资源 / Video resources](#4---video-resources)
-  - [5. 工具 / Tools](#5---tools)
+# 目录Index
+  * [论文相关 / Papers](#1---papers)
+  * [文档 / Useful documents](#2---useful-documents)
+  * [3. 特别主题 / Special issue](#3---special-issue)
+  * [4. 视频资源 / Video resources](#4---video-resources)
+  * [5. 工具 Tools](#Tools)
 
 
 常用简写 / Abbreviations ：
@@ -103,7 +103,7 @@ AI的电机设计系统。
 - 最大转矩/电流角丨内置V型转子丨Maxwell电机仿真丨罗小黑战记
   [b站链接](https://www.bilibili.com/video/BV1yA411g7oK)
 
-# 5. 工具 / Tools
+# Tools
 
 - [pyaedt](https://github.com/pyansys/PyAEDT) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
 - [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) 在ANSYS Maxwell
