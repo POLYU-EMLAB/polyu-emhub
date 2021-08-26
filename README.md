@@ -1,12 +1,26 @@
 # emTools
 
 Resources and tools for electric machines and wireless power transfer systems
-# 目录Index
-  * [论文相关 / Papers](#1---papers)
-  * [文档 / Useful documents](#2---useful-documents)
-  * [3. 特别主题 / Special issue](#3---special-issue)
-  * [4. 视频资源 / Video resources](#4---video-resources)
-  * [5. 工具 Tools](#Tools)
+## 目录
+- [1. 论文相关 / Papers](#1--------papers)
+  * [1.1 期刊 / Journals](#11------journals)
+  * [1.2 会议 / Conferences](#12------conferences)
+  * [1.3作者 / Authors](#13-----authors)
+    + [1.3.1 实验室 / Lab](#131-------lab)
+    + [1.3.2 世界范围 / Worldwide](#132--------worldwide)
+- [2. 文档 / Useful documents](#2------useful-documents)
+- [3. 特别主题 / Special issue](#3--------special-issue)
+  * [3.1 冻结磁导率 / Frozen Permeability](#31---------frozen-permeability)
+  * [3.2 双转子电机 /](#32--------)
+  * [3.3 电机优化 / Optimal design of electric machines](#33--------optimal-design-of-electric-machines)
+  * [3.x 机器学习与电机 / Machine learning and electric machines](#3x-----------machine-learning-and-electric-machines)
+- [4. 视频资源 / Video resources](#4--------video-resources)
+  * [4.1 可以关注的up主 / The people you can follow](#41------up----the-people-you-can-follow)
+  * [4.2 Maxwell 操作 / Maxwell Hints](#42-maxwell------maxwell-hints)
+- [Tools](#tools)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 常用简写 / Abbreviations ：
@@ -103,7 +117,7 @@ AI的电机设计系统。
 - 最大转矩/电流角丨内置V型转子丨Maxwell电机仿真丨罗小黑战记
   [b站链接](https://www.bilibili.com/video/BV1yA411g7oK)
 
-# Tools
+# 工具 / Tools
 
 - [pyaedt](https://github.com/pyansys/PyAEDT) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
 - [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) 在ANSYS Maxwell
