@@ -2,12 +2,12 @@
 
 Resources and tools for electric machines and wireless power transfer systems
 
-常用简写：
+常用简写 / Abbreviations ：
 - AEDT: ANSYS Electronics Desktop，ANSYS推出的电磁套件，包含Maxwell，HFSS，Simplorer等。
 
-# 1. 论文相关
+# 1. 论文相关 / Papers
 
-## 1.1 期刊
+## 1.1 期刊 / Journals
 
 - [TIE](http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics) IEEE Transactions on Industrial Electronics
 - [TPE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63) IEEE Transactions on Power Electronics
@@ -15,42 +15,41 @@ Resources and tools for electric machines and wireless power transfer systems
 - [TMAG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=20) IEEE Transactions on Magnetics
 - [ENERGIES](https://www.mdpi.com/journal/energies) Energies
 
-## 1.2 会议
+## 1.2 会议 / Conferences
 
 - COMPUMAG
 - Intermag
 - CEFC
 
-## 1.3作者
+## 1.3作者 / Authors
 
-### 1.3.1 实验室
+### 1.3.1 实验室 / Lab
 
 - [Weinong Fu](https://scholar.google.com/citations?user=itDH2QIAAAAJ&hl=zh-CN&oi=sra)
 - [Shuangxia Niu](https://scholar.google.com/citations?user=lIH-GZIAAAAJ&hl=zh-CN&oi=ao)
 - [Xing Zhao](https://scholar.google.com/citations?user=CvpxdLgAAAAJ&hl=zh-CN&oi=sra)
 
-### 1.3.2 世界范围
+### 1.3.2 世界范围 / Worldwide
 
 - [Thomas A. Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ&hl=zh-CN&oi=ao)
 - [K.T. Chau](https://scholar.google.com/citations?user=5wptXfQAAAAJ&hl=zh-CN)
 
 持续收集中……
 
-# 2. 文档
+# 2. 文档 / Useful documents
 
 - [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
 - [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
 
 # 3. 特别主题 Special issue
 
-## 3.1 冻结磁导率
+## 3.1 冻结磁导率 / Frozen Permeability
 
 - [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理，姜霁芙正在预备整理。
 
 ## 3.2 双转子电机
 
-## 3.3 电机优化
-电机优化
+## 3.3 电机优化 / Optimal design of electric machines
 
 - [如何进行永磁同步电机全局优化设计](https://zhuanlan.zhihu.com/p/43476298) 知乎老哥写的挺好的，可以作为入门教程学习一下流程
 - [Platypus](https://github.com/Project-Platypus/Platypus) 一个简单好用的进化算法库，编程语言python，可用于电机优化
@@ -74,14 +73,14 @@ AnsysEM的版本必须是21.x，如果是之前版本，则不包含scipy。也�
 [[3]](https://mp.weixin.qq.com/s/VoS69h_77vRAndxsIJejzQ)
 
 
-# 4. 视频资源
+# 4. 视频资源 Video resources
 
-## 4.1 可以关注的up主
+## 4.1 可以关注的up主 The ups you can follow
 
 - [我是大鳄鱼](https://space.bilibili.com/37260118) 据说来自华中
 - [豪底狄](https://space.bilibili.com/7132537/dynamic) 浙大博士，目前方向为无轴承感应电机、控制、电机设计相关软件等
 
-## 4.2 Maxwell 操作
+## 4.2 Maxwell 操作 / Maxwell Hints
 
 - 效率、功率因数计算
   [b站链接](https://www.bilibili.com/video/BV1MZ4y1F7dv)
@@ -92,9 +91,9 @@ AnsysEM的版本必须是21.x，如果是之前版本，则不包含scipy。也�
 - 最大转矩/电流角丨内置V型转子丨Maxwell电机仿真丨罗小黑战记
   [b站链接](https://www.bilibili.com/video/BV1yA411g7oK)
 
-# 5. 工具
+# 5. 工具 / Tools
 
-- [pyaedt](https://aedtdocs.pyansys.com/) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
+- [pyaedt](https://github.com/pyansys/PyAEDT) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
 - [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) 在ANSYS Maxwell
   2D/3D中为交流/直流电机排绕组及计算槽星型矢量图、相关参数。作者江明远，欢迎发送邮件至nmyjiang@foxmail.com或直接找他debug。
 - [getPF](https://github.com/POLYU-EMLAB/getPF) 用C++和matlab写的求功率因数的程序，作者吴会欢，2017年写的，如果有问题请至issue留言。
