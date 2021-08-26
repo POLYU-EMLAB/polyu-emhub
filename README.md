@@ -99,7 +99,7 @@ AnsysEM的版本必须是21.x，如果是之前版本，则不包含scipy。也�
   2D/3D中为交流/直流电机排绕组及计算槽星型矢量图、相关参数。作者江明远，欢迎发送邮件至nmyjiang@foxmail.com或直接找他debug。
 - [getPF](https://github.com/POLYU-EMLAB/getPF) 用C++和matlab写的求功率因数的程序，作者吴会欢，2017年写的，如果有问题请至issue留言。
 - [Electrical Machines Design Automation by Ansys Maxwell Script](https://github.com/MarkWengSTR/ansys-maxwell-EM-design-online)
-  It is a Electrical Machines Design Automation by Ansys Maxwell Script. 应该是一个台湾的同学写的。
+  It is a Electrical Machines Design Automation by Ansys Maxwell Script. 从事电机设计的台湾同学写的，搞得很好。
 - [Platypus](https://github.com/Project-Platypus/Platypus) 一个简单好用的进化算法库，编程语言python，可用于电机优化
 - [scipy.fft](https://docs.scipy.org/doc/scipy/reference/tutorial/fft.html) scipy包中的fft模块，可用于谐波分析、寻找功角、
 计算功率因数等。AEDT程序目录中自带。具体路径在
