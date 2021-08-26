@@ -1,9 +1,6 @@
 # emTools
 
 Resources and tools for electric machines and wireless power transfer systems
-## 目录
-
-* [5. 工具 / Tools](#5---工具---tools)
 
 常用简写 / Abbreviations ：
 - AEDT: ANSYS Electronics Desktop，ANSYS推出的电磁套件，包含Maxwell，HFSS，Simplorer等。
