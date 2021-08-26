@@ -18,15 +18,17 @@ Resources and tools for electric machines and wireless power transfer systems
 
 ## 1.3作者
 
-### 1.3.1 世界范围
-
-正在收集……
-
-### 1.3.2 实验室
+### 1.3.1 实验室
 
 - [Weinong Fu](https://scholar.google.com/citations?user=itDH2QIAAAAJ&hl=zh-CN&oi=sra)
 - [Shuangxia Niu](https://scholar.google.com/citations?user=lIH-GZIAAAAJ&hl=zh-CN&oi=ao)
 - [Xing Zhao](https://scholar.google.com/citations?user=CvpxdLgAAAAJ&hl=zh-CN&oi=sra)
+
+### 1.3.2 世界范围
+- [Thomas A. Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ&hl=zh-CN&oi=ao)
+- [K.T. Chau](https://scholar.google.com/citations?user=5wptXfQAAAAJ&hl=zh-CN)
+
+持续收集中……
 
 # 2. 文档
 
@@ -61,7 +63,7 @@ Resources and tools for electric machines and wireless power transfer systems
 
 # 5. 工具
 
-- [pyaedt](https://aedtdocs.pyansys.com/) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop
-- [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) For arranging windings for AC/DC machines in ANSYS Maxwell 2D/3D. 作者江明远
-- [getPF](https://github.com/POLYU-EMLAB/getPF) 用C++和matlab写的求功率因数的程序，作者吴会欢，2017年写的，如果有问题请至issue留言
-- [Electrical Machines Design Automation by Ansys Maxwell Script](https://github.com/MarkWengSTR/ansys-maxwell-EM-design-online) It is a Electrical Machines Design Automation by Ansys Maxwell Script. 应该是一个台湾的同学写的
+- [pyaedt](https://aedtdocs.pyansys.com/) ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
+- [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) 在ANSYS Maxwell 2D/3D中为交流/直流电机排绕组及计算槽星型矢量图、相关参数。作者江明远，欢迎发送邮件至nmyjiang@foxmail.com或直接找他debug。
+- [getPF](https://github.com/POLYU-EMLAB/getPF) 用C++和matlab写的求功率因数的程序，作者吴会欢，2017年写的，如果有问题请至issue留言。
+- [Electrical Machines Design Automation by Ansys Maxwell Script](https://github.com/MarkWengSTR/ansys-maxwell-EM-design-online) It is a Electrical Machines Design Automation by Ansys Maxwell Script. 应该是一个台湾的同学写的。
