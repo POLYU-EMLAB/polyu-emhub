@@ -47,7 +47,7 @@ Resources and tools for electric machines and wireless power transfer systems
 
 - [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理，姜霁芙正在预备整理。
 
-## 3.2 双转子电机
+## 3.2 双转子电机 / 
 
 ## 3.3 电机优化 / Optimal design of electric machines
 
@@ -73,9 +73,9 @@ AnsysEM的版本必须是21.x，如果是之前版本，则不包含scipy。也�
 [[3]](https://mp.weixin.qq.com/s/VoS69h_77vRAndxsIJejzQ)
 
 
-# 4. 视频资源 Video resources
+# 4. 视频资源 / Video resources
 
-## 4.1 可以关注的up主 The ups you can follow
+## 4.1 可以关注的up主 / The ups you can follow
 
 - [我是大鳄鱼](https://space.bilibili.com/37260118) 据说来自华中
 - [豪底狄](https://space.bilibili.com/7132537/dynamic) 浙大博士[陈嘉豪](https://horychen.github.io)，
