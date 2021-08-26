@@ -72,7 +72,7 @@ AnsysEM的版本必须是21.x，如果是之前版本，则不包含scipy。也�
 本次发布的是一个IPM转子UDP模型，该模型支持V、一、双V、双一、V一等组合的磁钢结构，同时支持转子表面辅助槽
 [[3]](https://mp.weixin.qq.com/s/VoS69h_77vRAndxsIJejzQ)
 
-## 3.4 机器学习与电机 / Machine learning and electric machines
+## 3.x 机器学习与电机 / Machine learning and electric machines
 
 # 4. 视频资源 / Video resources
 
