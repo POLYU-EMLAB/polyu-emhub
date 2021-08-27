@@ -5,7 +5,7 @@ Resources and tools for electric machines and wireless power transfer systems
 * [1. 论文相关 / Papers](#1-论文相关--papers)
 * [2. 文档 / Useful documents](#2-文档--useful-documents)
 * [3. 特别主题 / Special issue](#3-特别主题--special-issue)
-* [4. 视频资源 / Video resources](#4-视频资源--video-resources)
+* [4. 视频资源 / Video resources](#4-资源--resources)
 * [5. 工具 / Tools](#5-工具--tools)
 
 
@@ -16,7 +16,7 @@ Resources and tools for electric machines and wireless power transfer systems
 
 
 
-# 1. [论文相关 / Papers](#目录-index)
+# [1. 论文相关 / Papers](#目录-index)
 
 ## 1.1 期刊 / Journals
 
@@ -53,7 +53,7 @@ TBD
 - [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
 - [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
 
-# [3. 特别主题 / Special issue](#目录-index)
+# [3. 特别主题 / Special topics](#目录-index)
 
 ## 3.1 冻结磁导率 / Frozen Permeability
 
@@ -96,7 +96,7 @@ TBD
 
 TBD
 
-# [4. 视频资源 / Video resources](#目录-index)
+# [4. 资源 / Resources](#目录-index)
 
 ## 4.1 可以关注的up主 / The people you can follow
 
@@ -105,7 +105,10 @@ TBD
   目前方向为无轴承感应电机、控制、电机设计相关软件等，目前在NTU。
 - [Mark Weng](https://mark-weng.com) Mark Weng, 电机设计工程师&程序员，目前在台湾“國家高速網路與計算中心”工作。最近似乎在开发基于 AI的电机设计系统。
 
-## 4.2 Maxwell 操作 / Maxwell Hints
+## 4.2 模型资源 / Model resources
+- [电机模型](https://github.com/POLYU-EMLAB/motor_lib) 不同电机结构的模型，包括SPM、IPM等常见电机。 
+## 4.3 视频资源 / Video resources
+### 4.3.1 Maxwell 操作 / Maxwell Hints
 
 - 效率、功率因数计算
   [b站链接](https://www.bilibili.com/video/BV1MZ4y1F7dv)
