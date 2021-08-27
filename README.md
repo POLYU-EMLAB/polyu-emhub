@@ -50,6 +50,7 @@ Resources and tools for electric machines and wireless power transfer systems
 
 - [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
 - [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
+- [各类电机教程、教材](https://github.com/POLYU-EMLAB/emTools/tree/main/docs/UsefulResource)
 
 # [3. 特别主题 / Special topics](#目录-index)
 
