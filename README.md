@@ -6,8 +6,8 @@ Resources and tools for electric machines and wireless power transfer systems
 
 * [1. 论文相关 / Papers](#1-论文相关--papers)
 * [2. 文档 / Useful documents](#2-文档--useful-documents)
-* [3. 特别主题 / Special issue](#3-特别主题--special-issue)
-* [4. 视频资源 / Video resources](#4-资源--resources)
+* [3. 特别主题 / Special topics](#3-特别主题--special-topics)
+* [4. 资源 / Resources](#4-资源--resources)
 * [5. 工具 / Tools](#5-工具--tools)
 
 常用简写 / Abbreviations ：
