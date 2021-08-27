@@ -9,6 +9,7 @@ Resources and tools for electric machines and wireless power transfer systems
 * [3. 特别主题 / Special topics](#3-特别主题--special-topics)
 * [4. 资源 / Resources](#4-资源--resources)
 * [5. 工具 / Tools](#5-工具--tools)
+* [6. 讨论区 / Discussion Area](#6-讨论区--Discussion-Area)
 
 常用简写 / Abbreviations ：
 
@@ -153,3 +154,5 @@ TBD
   且千变万化，内置UDP库往往无法满足实际需求，为此ANSYS中国技术团队陆续定制开发了一系列UDP模型，帮助工程师更方便的实现快速参数化建模。
   本次发布的是一个IPM转子UDP模型，该模型支持V、一、双V、双一、V一等组合的磁钢结构，同时支持转子表面辅助槽
   [[3]](https://mp.weixin.qq.com/s/VoS69h_77vRAndxsIJejzQ)
+  
+  # [6. 讨论区 / Discussion Area](#目录-index)
