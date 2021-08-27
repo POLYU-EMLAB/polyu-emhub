@@ -1,20 +1,19 @@
 # emTools
 
 Resources and tools for electric machines and wireless power transfer systems
+
 ## 目录 Index
+
 * [1. 论文相关 / Papers](#1-论文相关--papers)
 * [2. 文档 / Useful documents](#2-文档--useful-documents)
 * [3. 特别主题 / Special issue](#3-特别主题--special-issue)
 * [4. 视频资源 / Video resources](#4-资源--resources)
 * [5. 工具 / Tools](#5-工具--tools)
 
-
 常用简写 / Abbreviations ：
 
 - AEDT: ANSYS Electronics Desktop，ANSYS推出的电磁套件，包含Maxwell，HFSS，Simplorer等。
 - TBD: TBD常指“有待讨论（To Be Discussed）”、“有待完善（To Be Done）”、“有待定义（To Be Defined）”及“有待决定（To Be Decided或To Be Determined）”。
-
-
 
 # [1. 论文相关 / Papers](#目录-index)
 
@@ -45,8 +44,7 @@ Resources and tools for electric machines and wireless power transfer systems
 - [Thomas A. Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ&hl=zh-CN&oi=ao)
 - [K.T. Chau](https://scholar.google.com/citations?user=5wptXfQAAAAJ&hl=zh-CN)
 
-持续收集中……
-TBD
+持续收集中…… TBD
 
 # [2. 文档 / Useful documents](#目录-index)
 
@@ -106,8 +104,11 @@ TBD
 - [Mark Weng](https://mark-weng.com) Mark Weng, 电机设计工程师&程序员，目前在台湾“國家高速網路與計算中心”工作。最近似乎在开发基于 AI的电机设计系统。
 
 ## 4.2 模型资源 / Model resources
-- [电机模型](https://github.com/POLYU-EMLAB/motor_lib) 不同电机结构的模型，包括SPM、IPM等常见电机。 
+
+- [电机模型](https://github.com/POLYU-EMLAB/motor_lib) 不同电机结构的模型，包括SPM、IPM等常见电机。
+
 ## 4.3 视频资源 / Video resources
+
 ### 4.3.1 Maxwell 操作 / Maxwell Hints
 
 - 效率、功率因数计算
@@ -118,6 +119,11 @@ TBD
 
 - 最大转矩/电流角丨内置V型转子丨Maxwell电机仿真丨罗小黑战记
   [b站链接](https://www.bilibili.com/video/BV1yA411g7oK)
+
+## 4.4 编程学习资源 / Learning program language resources
+
+- [Sololearn](www.sololearn.com) Courses designed by experts with real-world practice.
+  一个适合初学者的编程学习网站，里面有大量免费的课程，非常实用。只要学习一遍，非计算机专业编程基本没有问题了。
 
 # [5. 工具 / Tools](#目录-index)
 
