@@ -9,7 +9,7 @@ Resources and tools for electric machines and wireless power transfer systems
 * [3. 特别主题 / Special topics](#3-特别主题--special-topics)
 * [4. 资源 / Resources](#4-资源--resources)
 * [5. 工具 / Tools](#5-工具--tools)
-* [6. 讨论区 / Discussion Area](#6-讨论区--Discussion-Area)
+* [6. 讨论区 / Discussion](#6-讨论区--Discussion)
 
 常用简写 / Abbreviations ：
 
@@ -155,4 +155,5 @@ TBD
   本次发布的是一个IPM转子UDP模型，该模型支持V、一、双V、双一、V一等组合的磁钢结构，同时支持转子表面辅助槽
   [[3]](https://mp.weixin.qq.com/s/VoS69h_77vRAndxsIJejzQ)
   
-  # [6. 讨论区 / Discussion Area](#目录-index)
+  # [6. 讨论区 / Discussion](#目录-index)
+  点[这里](https://github.com/POLYU-EMLAB/emTools/discussions)进入讨论区。请勿发与学科无关内容。
