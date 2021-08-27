@@ -39,7 +39,7 @@ Resources and tools for electric machines and wireless power transfer systems
 - [Shuangxia Niu](https://scholar.google.com/citations?user=lIH-GZIAAAAJ&hl=zh-CN&oi=ao)
 - [Xing Zhao](https://scholar.google.com/citations?user=CvpxdLgAAAAJ&hl=zh-CN&oi=sra)
 
-### 1.3.2 世 界范围 / Worldwide
+### 1.3.2 世界范围 / Worldwide
 
 - [Thomas A. Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ&hl=zh-CN&oi=ao)
 - [K.T. Chau](https://scholar.google.com/citations?user=5wptXfQAAAAJ&hl=zh-CN)
