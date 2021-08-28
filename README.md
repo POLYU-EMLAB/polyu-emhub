@@ -158,6 +158,7 @@ TBD
   且千变万化，内置UDP库往往无法满足实际需求，为此ANSYS中国技术团队陆续定制开发了一系列UDP模型，帮助工程师更方便的实现快速参数化建模。
   本次发布的是一个IPM转子UDP模型，该模型支持V、一、双V、双一、V一等组合的磁钢结构，同时支持转子表面辅助槽
   [[3]](https://mp.weixin.qq.com/s/VoS69h_77vRAndxsIJejzQ)
+- [aedtfile](https://github.com/POLYU-EMLAB/aedtfile) aedtfile是用于解析Ansys Electronics文件的库，目前可用于优化时修改变量。
 
   # [6. 讨论区 / Discussion](#目录-index)
   点[这里](https://github.com/POLYU-EMLAB/emTools/discussions)进入讨论区。请勿发与学科无关内容。
