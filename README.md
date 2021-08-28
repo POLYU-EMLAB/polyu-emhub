@@ -126,6 +126,10 @@ TBD
 
 - [Sololearn](www.sololearn.com) Courses designed by experts with real-world practice.
   一个适合初学者的编程学习网站，里面有大量免费的课程，非常实用。只要学习一遍，非计算机专业编程基本没有问题了。
+- [Jetbrains免费教育许可证](https://www.jetbrains.com/community/education/#students)
+  软件开发者和团队的必备工具。JetBrains开发工具免费提供学生和教师使用。取得授权后只需要使用相同的 JetBrains 帐号就可以激活其他产品，不需要重复申请。
+- [GitHub 学生开发包](https://docs.github.com/cn/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/apply-for-a-student-developer-pack)
+  作为学生，可以申请 GitHub Student Developer Pack，其中包括 GitHub 合作伙伴的特惠和福利。
 
 # [5. 工具 / Tools](#目录-index)
 
@@ -154,6 +158,6 @@ TBD
   且千变万化，内置UDP库往往无法满足实际需求，为此ANSYS中国技术团队陆续定制开发了一系列UDP模型，帮助工程师更方便的实现快速参数化建模。
   本次发布的是一个IPM转子UDP模型，该模型支持V、一、双V、双一、V一等组合的磁钢结构，同时支持转子表面辅助槽
   [[3]](https://mp.weixin.qq.com/s/VoS69h_77vRAndxsIJejzQ)
-  
+
   # [6. 讨论区 / Discussion](#目录-index)
   点[这里](https://github.com/POLYU-EMLAB/emTools/discussions)进入讨论区。请勿发与学科无关内容。
