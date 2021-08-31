@@ -75,6 +75,8 @@ Resources and tools for electric machines and wireless power transfer systems
 
 ### 3.3.2 优化算法
 
+- [The Reed Research Group](https://reed.cee.cornell.edu)
+  康奈尔大学Reed博士课题组，里面的优化算法资源非常全面好用。
 - [Platypus](https://github.com/Project-Platypus/Platypus)
   一个简单好用的进化算法库，编程语言python，可用于电机优化
 - [jMetalPy](https://github.com/jMetal/jMetalPy) A framework for
@@ -170,6 +172,8 @@ Resources and tools for electric machines and wireless power transfer systems
   OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 - [pyocc](https://github.com/tpaviot/pythonocc-core) Python package for 3D
   CAD/BIM/PLM/CAM
+- [vector2de](http://www.falstad.com/vector2de) This applet displays the
+  electric field in various situations. 浏览器里的静电场可视化。
 
 ### 3.4.4 专用软件
 
@@ -180,6 +184,11 @@ Resources and tools for electric machines and wireless power transfer systems
 
 - [meshio](https://github.com/nschloe/meshio) input/output for many mesh
   formats
+
+### 3.4.6 教程
+
+- [AMS 691: Finite Element Methods: Theory and Computations](http://www.ams.sunysb.edu/~jiao/teaching/ams529/index.html)
+  纽约大学石溪分校课程
 
 ## 3.5 电机控制 / Control Methods for Electrical Machines
 
@@ -217,6 +226,10 @@ Resources and tools for electric machines and wireless power transfer systems
 - [Onnx Model](https://github.com/onnx/models) A collection of pre-trained,
   state-of-the-art models in the ONNX format
 
+### 3.6.3 其他工具
+
+- [NNSVG](http://alexlenail.me/NN-SVG/) 神经网络绘图工具，支持矢量图
+
 ## 3.7 无线传能 / Wireless Power Transfer
 
 TBD
@@ -230,6 +243,7 @@ TBD
   浙大博士[陈嘉豪](https://horychen.github.io)， 目前方向为无轴承感应电机、控制、电机设计相关软件等，目前在NTU。
 - [Mark Weng](https://mark-weng.com) Mark Weng,
   电机设计工程师&程序员，目前在台湾“國家高速網路與計算中心”工作。最近似乎在开发基于 AI的电机设计系统。
+- [能源与电气工程科普网站《鹏芃科艺》](https://www.pengky.cn) 蜜汁配色的科普网站。
 
 ## 4.2 模型资源 / Model resources
 
