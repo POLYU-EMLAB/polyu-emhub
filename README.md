@@ -56,7 +56,20 @@ Resources and tools for electric machines and wireless power transfer systems
 
 - [中国电机标准(GB electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/gb.htm)
 - [IEC电机标准(IEC electrical machinery standards)](http://www.msckobe.com/links/electrical_machinery/iec.htm)
-- [各类电机教程、教材](https://github.com/POLYU-EMLAB/useful-resources)
+
+## 2.1 电机设计
+
+- [各类电机教程、教材](https://github.com/POLYU-EMLAB/useful-resources) 本组私有教材
+- [电机设计](http://keysan.me/ee564/) 来自土耳其的课程
+- [Electric Machines](https://people.ucalgary.ca/~aknigh/electrical_machines/)
+  来自加拿大ucalgary的电机课程
+- [Rmxprt一键生成Maxwell](http://blog.sina.com.cn/s/blog_65d5631a0100sdqd.html)
+- [Etel Motor](https://www.etel.ch/torque-motors/overview) 世界顶级厂家的力矩电机，可用于对比。
+- [“Electric Machine Design” – Tutorial Lectures](http://www.motor-engineer.net/engineering-center/learn/tutorial-electric-machine-design-hendershot/)
+  电机课程，Instructor: J.R. HENDERSHOT
+- [EMetor Windings](https://www.emetor.com/windings/) 绕组设计小工具
+- [Winding Scheme Calculator](http://www.bavaria-direct.co.za/scheme/calculator/)
+  可视化效果更好的绕组设计小工具
 
 # [3. 特别主题 / Special topics](#目录-index)
 
@@ -162,6 +175,11 @@ Resources and tools for electric machines and wireless power transfer systems
 - [FEMFX](https://github.com/GPUOpen-Effects/FEMFX) FEMFX is a multithreaded
   CPU library for deformable material physics, using the Finite Element
   Method (FEM). AMD写的
+- [Source Codes](https://people.sc.fsu.edu/~jburkardt) John Burkardt
+  的fortran代码库，也许会找到一些有用的东西。
+- [Fortran wiki](http://fortranwiki.org) The Fortran Wiki is an open venue for
+  discussing all aspects of the Fortran programming language and scientific
+  computing.
 
 ### 3.4.3 可视化
 
@@ -226,7 +244,28 @@ Resources and tools for electric machines and wireless power transfer systems
 - [Onnx Model](https://github.com/onnx/models) A collection of pre-trained,
   state-of-the-art models in the ONNX format
 
-### 3.6.3 其他工具
+### 3.6.3 Mesh segmentation
+
+- [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/) Evangelos
+  Kalogerakis' research deals with the development of graphics+vision
+  algorithms and techniques, empowered by AI/ML, to help people to easily
+  create and process representations of the 3D visual world.
+- [MeshLab](https://www.meshlab.net) the open source system for processing and
+  editing 3D triangular meshes.
+- [Learning Hierarchical Shape Segmentation and Labeling from Online Repositories](https://cs.stanford.edu/~ericyi/project_page/hier_seg/index.html)
+- [3D Shape Segmentation with Projective Convolutional Networks
+  ](https://people.cs.umass.edu/~kalo/papers/shapepfcn/)
+- [The Alien Style of Deep Learning Generative Design](https://medium.com/intuitionmachine/the-alien-look-of-deep-learning-generative-design-5c5f871f7d10)
+  深度学习设计
+- [Learning 3D Mesh Segmentation and Labeling](https://people.cs.umass.edu/~kalo/papers/LabelMeshes)
+  Mesh分区，我觉得用来做给有限元做网格剖分时分区可以使用。
+- [A Benchmark for 3D Mesh Segmentation](https://segeval.cs.princeton.edu/)
+  普林斯顿大学开源的3d数据
+- [NiftyNet](https://niftynet.io/?from=@) An open source convolutional neural
+  networks platform for medical image analysis and image-guided
+  therapy，当然也可以用在电机上。
+
+### 3.6.4 其他工具
 
 - [NNSVG](http://alexlenail.me/NN-SVG/) 神经网络绘图工具，支持矢量图
 
@@ -238,6 +277,8 @@ TBD
 
 ## 4.1 可以关注的up主 / The people you can follow
 
+- [核动力蜗牛](https://mp.weixin.qq.com/s/LT_ncnDFqezjZ-ubNlKuaw)
+  非常务实的电机工程师，公司在杭州，叫伏特动力，开发了一系列电机优化设计软件。
 - [我是大鳄鱼](https://space.bilibili.com/37260118) 据说来自华中
 - [豪底狄](https://space.bilibili.com/7132537/dynamic)
   浙大博士[陈嘉豪](https://horychen.github.io)， 目前方向为无轴承感应电机、控制、电机设计相关软件等，目前在NTU。
