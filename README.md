@@ -126,12 +126,7 @@ Resources and tools for electric machines and wireless power transfer systems
 
 - [DTU topopt group](https://www.topopt.mek.dtu.dk) The TopOpt group at DTU
   Mechanical Engineering is world leading within development and applications
-  of density based topology optimization methods. TopOpt is an acronym for
-  Topology Optimization and the group is a joined research effort between the
-  departments of DTU Mechanical Engineering and DTU Compute with the aim of
-  promoting theoretical extensions and practical applications of the topology
-  optimization method. The group is involved in a number of multidisciplinary
-  research projects sponsored from national and international sources.
+  of density based topology optimization methods. 丹麦DTU的拓扑结构优化组，牛。
 - [TopOpt_in_PETSc](https://github.com/topopt/TopOpt_in_PETSc) A 3D large-scale
   topology optimization code using PETSc. The code (or framework) presented on
   this page is a fully parallel framework for conducting very large scale
@@ -139,6 +134,9 @@ Resources and tools for electric machines and wireless power transfer systems
   see www.topopt.dtu.dk/PETSc.
 - [topy](https://github.com/williamhunter/topy) Topology Optimization using
   Python, DTU的作品
+- [Engineering Design Research Laboratory](https://edrl.et.iupui.edu/)
+  印第安纳大学与普渡大学印第安纳波利斯联合分校的工程设计组。值得关注
+- [top3d](https://www.top3d.app/) 3D拓扑结果优化程序，EDRL组作品。
 - [TopOpt-MMA-Python](https://github.com/arjendeetman/TopOpt-MMA-Python)
   Example application of the GCMMA-MMA-Python repo in topology optimization.
 - [topopt参考代码](https://github.com/AJJLagerweij/topopt) Topology
@@ -167,7 +165,7 @@ Resources and tools for electric machines and wireless power transfer systems
 - [FEMM](https://github.com/cenit/FEMM) Finite Element Method Magnetics: A
   Windows finite element solver for 2D and axisymmetric magnetic,
   electrostatic, heat flow, and current flow problems with graphical pre- and
-  post-processors.
+  post-processors. 老牌电磁求解器
 - [ONELAB](https://onelab.info) Open Numerical Engineering LABoratory
   相对好用的通用FEM软件。
 - [fealpy](https://github.com/weihuayi/fealpy) Finite Element Analysis Library
