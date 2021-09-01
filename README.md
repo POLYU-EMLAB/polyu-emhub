@@ -114,7 +114,7 @@ Resources and tools for electric machines and wireless power transfer systems
 
 ## 3.7 无线传能 / Wireless Power Transfer
 
-TBD
+- 详见[这里](https://github.com/hh-wu/awesome-wpt)
 
 # [4. 资源 / Resources](#目录-index)
 
