@@ -12,16 +12,16 @@ Resources and tools for electric machines and wireless power transfer systems
 * [5. 工具 / Tools](#5-工具--tools)
 * [6. 讨论区 / Discussion](#6-讨论区--Discussion)
 
+常用链接 / Links :
+
+- [OptTool](https://github.com/POLYU-EMLAB/OptTool) 实验室自用优化程序。
+
 常用简写 / Abbreviations ：
 
 - AEDT: ANSYS Electronics Desktop，ANSYS推出的电磁套件，包含Maxwell，HFSS，Simplorer等。
 - TBD: TBD常指“有待讨论（To Be Discussed）”、“有待完善（To Be Done）”、“有待定义（To Be
   Defined）”及“有待决定（To Be Decided或To Be Determined）”。
-
-常用链接
-
-- [OptTool](https://github.com/POLYU-EMLAB/OptTool) 实验室自用优化程序。
-
+  
 # [1. 论文相关 / Papers](#目录-index)
 
 ## 1.1 期刊 / Journals
