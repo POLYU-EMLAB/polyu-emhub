@@ -157,7 +157,7 @@ Resources and tools for electric machines and wireless power transfer systems
   作为学生，可以申请 GitHub Student Developer Pack，其中包括 GitHub 合作伙伴的特惠和福利。
 
 # [5. 工具 / Tools](#目录-index)
-
+- [OptTool](https://github.com/POLYU-EMLAB/OptTool) 实验室自用优化程序，作者吴会欢。
 - [pyaedt](https://github.com/pyansys/PyAEDT)
   ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
 - [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) 在ANSYS Maxwell
