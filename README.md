@@ -1,16 +1,6 @@
 # emTools
 
-Resources and tools for electric machines and wireless power transfer systems
-
-
-## 目录 Index
-
-* [1. 论文相关 / Papers](#1-论文相关--papers)
-* [2. 文档 / Useful documents](#2-文档--useful-documents)
-* [3. 特别主题 / Special topics](#3-特别主题--special-topics)
-* [4. 资源 / Resources](#4-资源--resources)
-* [5. 工具 / Tools](#5-工具--tools)
-* [6. 讨论区 / Discussion](#6-讨论区--Discussion)
+电机与无线传能学习资源及工具集合 / Resources and tools for electric machines and wireless power transfer systems.
 
 常用链接 / Links :
 
@@ -21,7 +11,16 @@ Resources and tools for electric machines and wireless power transfer systems
 - AEDT: ANSYS Electronics Desktop，ANSYS推出的电磁套件，包含Maxwell，HFSS，Simplorer等。
 - TBD: TBD常指“有待讨论（To Be Discussed）”、“有待完善（To Be Done）”、“有待定义（To Be
   Defined）”及“有待决定（To Be Decided或To Be Determined）”。
-  
+
+## 目录 Index
+
+* [1. 论文相关 / Papers](#1-论文相关--papers)
+* [2. 文档 / Useful documents](#2-文档--useful-documents)
+* [3. 特别主题 / Special topics](#3-特别主题--special-topics)
+* [4. 资源 / Resources](#4-资源--resources)
+* [5. 工具 / Tools](#5-工具--tools)
+* [6. 讨论区 / Discussion](#6-讨论区--Discussion)
+
 # [1. 论文相关 / Papers](#目录-index)
 
 ## 1.1 期刊 / Journals
