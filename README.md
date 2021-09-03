@@ -2,6 +2,7 @@
 
 Resources and tools for electric machines and wireless power transfer systems
 
+
 ## 目录 Index
 
 * [1. 论文相关 / Papers](#1-论文相关--papers)
@@ -16,6 +17,10 @@ Resources and tools for electric machines and wireless power transfer systems
 - AEDT: ANSYS Electronics Desktop，ANSYS推出的电磁套件，包含Maxwell，HFSS，Simplorer等。
 - TBD: TBD常指“有待讨论（To Be Discussed）”、“有待完善（To Be Done）”、“有待定义（To Be
   Defined）”及“有待决定（To Be Decided或To Be Determined）”。
+
+常用链接
+
+- [OptTool](https://github.com/POLYU-EMLAB/OptTool) 实验室自用优化程序。
 
 # [1. 论文相关 / Papers](#目录-index)
 
@@ -157,7 +162,7 @@ Resources and tools for electric machines and wireless power transfer systems
   作为学生，可以申请 GitHub Student Developer Pack，其中包括 GitHub 合作伙伴的特惠和福利。
 
 # [5. 工具 / Tools](#目录-index)
-- [OptTool](https://github.com/POLYU-EMLAB/OptTool) 实验室自用优化程序，作者吴会欢。
+
 - [pyaedt](https://github.com/pyansys/PyAEDT)
   ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
 - [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) 在ANSYS Maxwell
