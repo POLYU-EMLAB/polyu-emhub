@@ -1,6 +1,7 @@
 # emTools
 
-电机与无线传能学习资源及工具集合 / Resources and tools for electric machines and wireless power transfer systems.
+电机与无线传能学习资源及工具集合 / Resources and tools for electric machines and wireless power
+transfer systems.
 
 常用链接 / Links :
 
@@ -23,7 +24,11 @@
 
 # [1. 论文相关 / Papers](#目录-index)
 
-## 1.1 期刊 / Journals
+## 1.1 新闻 / News
+
+- [2021年9月](news/2021/09/2021-09.md)
+
+## 1.2 期刊 / Journals
 
 - [TIE](http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics)
   IEEE Transactions on Industrial Electronics
@@ -35,21 +40,21 @@
   Transactions on Magnetics
 - [ENERGIES](https://www.mdpi.com/journal/energies) Energies
 
-## 1.2 会议 / Conferences
+## 1.3 会议 / Conferences
 
 - COMPUMAG
 - Intermag
 - CEFC
 
-## 1.3作者 / Authors
+## 1.4作者 / Authors
 
-### 1.3.1 实验室 / Lab
+### 1.4.1 实验室 / Lab
 
 - [Weinong Fu](https://scholar.google.com/citations?user=itDH2QIAAAAJ&hl=zh-CN&oi=sra)
 - [Shuangxia Niu](https://scholar.google.com/citations?user=lIH-GZIAAAAJ&hl=zh-CN&oi=ao)
 - [Xing Zhao](https://scholar.google.com/citations?user=CvpxdLgAAAAJ&hl=zh-CN&oi=sra)
 
-### 1.3.2 世界范围 / Worldwide
+### 1.4.2 世界范围 / Worldwide
 
 - [Thomas A. Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ&hl=zh-CN&oi=ao)
 - [K.T. Chau](https://scholar.google.com/citations?user=5wptXfQAAAAJ&hl=zh-CN)
