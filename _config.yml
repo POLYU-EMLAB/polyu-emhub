@@ -5,3 +5,18 @@ remote_theme: pmarsceill/just-the-docs
 #
 # Supports true (default) or false
 heading_anchors: true
+
+collections:
+  docs:
+    permalink: "docs"
+    output: true
+  news:
+    permalink: "news"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+    news:
+      name: News
