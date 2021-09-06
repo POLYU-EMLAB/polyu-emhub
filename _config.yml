@@ -1,23 +1,23 @@
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
 
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
+# # Heading anchor links appear on hover over h1-h6 tags in page content
+# # allowing users to deep link to a particular heading on a page.
+# #
+# # Supports true (default) or false
+# heading_anchors: true
 
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
+# # Back to top link
+# back_to_top: true
+# back_to_top_text: "Back to top"
 
-permalink: pretty
-exclude: ["docs","news"]
+# permalink: pretty
+# exclude: ["docs","news"]
 
 
 
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+# # Footer last edited timestamp
+# last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+# last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # collections:
 #   docs:
