@@ -45,4 +45,8 @@
 #       # Supports true or false (default)
 #       search_exclude: false
 
-theme: jekyll-theme-cayman
+title: EMHUB
+description: Resource Hub for HKPolyU EM Lab
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-leap-day
