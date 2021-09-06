@@ -1,4 +1,4 @@
-# emTools
+# emHub
 
 电机与无线传能学习资源及工具集合 / Resources and tools for electric machines and wireless power
 transfer systems.
