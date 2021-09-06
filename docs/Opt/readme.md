@@ -20,18 +20,18 @@
 
 ### 3.3.3 优化时用的小工具
 
-- [Maxwell傅里叶分析UDO](../Maxwell_FFT_UDO/Readme.md)
+- [Maxwell傅里叶分析UDO](https://github.com/POLYU-EMLAB/polyu-emhub/tree/main/docs/Maxwell_FFT_UDO)
   电机的优化设计问题永远也绕不开对谐波的优化，虽然Maxwell后处理中自带了快速FFT功能，
   但是该功能无法直接输出某次谐波的幅值作为优化的目标函数，很多工程师一直认为Maxwell无法实现这个功能，事实上，Maxwell的后处理程序中包含了
   丰富的数学函数库，我们在理解了FFT理论的基础上，可利用这些数学函数库编写表达式抽取出任意次数的谐波幅值并作为优化的目标，
   另外还有一种方法是编写UDO脚本，输出任意阶次的谐波幅值。本次教程通过反电势、气隙磁密、电磁力三个例子介绍上述两种方法，希望对各位有所帮助。
   [[1]](https://mp.weixin.qq.com/s/2TduEvN2K7TRVHnyYjFl1w)
-- [Maxwell UDO 脚本：输出二维傅里叶分析结果](../FFT2D/Readme.md)  电机振动噪声的主要激励源是定子受到的时变电磁力，它与结构模态叠加，
+- [Maxwell UDO 脚本：输出二维傅里叶分析结果](https://github.com/POLYU-EMLAB/polyu-emhub/tree/main/docs/FFT2D)  电机振动噪声的主要激励源是定子受到的时变电磁力，它与结构模态叠加，
   在某些频段引起谐振。削弱电机振动幅度的关键是削弱对应阶次电磁力幅值，电机中的电磁力是非常复杂的，它是时间和空间的函数，包含了时间和空间谐波。
   为了提取某一时间空间次数的电磁力谐波，必须用到二维傅里叶分析，Maxwell目前没有这个功能，为此，我们基于AEDT的UDO框架开发了专用于二维傅里叶分析的脚本。
   利用该脚本，用户可轻松提取电磁力时空谐波幅值，并将其作为优化设计的目标函数，进而从源头上实现电机的减振降噪优化设计
   [[2]](https://mp.weixin.qq.com/s/v7qDxoEzgOW3OOCqA1tnmg)
-- [Maxwell 自定义 UDP：V_Shape_IPM_Rotor](../CustomizedVShapeRotor_UDP/Readme.md)
+- [Maxwell 自定义 UDP：V_Shape_IPM_Rotor](https://github.com/POLYU-EMLAB/polyu-emhub/tree/main/docs/CustomizedVShapeRotor_UDP)
   对于一些特定领域的电机产品来说，几何模型往往十分复杂
   且千变万化，内置UDP库往往无法满足实际需求，为此ANSYS中国技术团队陆续定制开发了一系列UDP模型，帮助工程师更方便的实现快速参数化建模。
   本次发布的是一个IPM转子UDP模型，该模型支持V、一、双V、双一、V一等组合的磁钢结构，同时支持转子表面辅助槽
