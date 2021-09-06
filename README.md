@@ -84,17 +84,17 @@ transfer systems.
 
 ## 3.1 冻结磁导率 / Frozen Permeability
 
-- [Frozen Permeability](docs/FrozenPermeability) 毕言鼎整理，姜霁芙正在预备整理。
+- [Frozen Permeability](docs/FrozenPermeability/readme.md) 毕言鼎整理，姜霁芙正在预备整理。
 
 ## 3.2 双转子电机 /
 
 ## 3.3 电机优化 / Optimal design of electric machines
 
-- 详见[这里](docs/Opt)
+- 详见[这里](docs/Opt/readme.md)
 
 ## 3.4 电磁计算 / Computational electromagnetics
 
-- 详见[这里](docs/CompuMag)
+- 详见[这里](docs/CompuMag/readme.md)
 
 ## 3.5 电机控制 / Control Methods for Electrical Machines
 
@@ -119,7 +119,7 @@ transfer systems.
 
 ## 3.6 机器学习与电机 / Machine learning and electric machines
 
-- 详见[这里](docs/ML)
+- 详见[这里](docs/ML/readme.md)
 
 ## 3.7 无线传能 / Wireless Power Transfer
 
