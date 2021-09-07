@@ -117,6 +117,8 @@ transfer systems.
 - [FpOC](https://github.com/WangXuan95/FpOC) FPGA-based Field Oriented
   Control (FOC) for driving PMSM motor. 中文Readme，写的非常详细。
 - [Creeper](https://github.com/ChenJin0927/Creeper) 基于DRV8301的开源无刷电机矢量控制器
+- [FPGA学习](https://github.com/LeiWang1999/FPGA) 帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目
+
 
 ## 3.6 机器学习与电机 / Machine learning and electric machines
 
