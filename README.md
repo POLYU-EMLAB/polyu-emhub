@@ -39,6 +39,7 @@ transfer systems.
 - [TMAG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=20) IEEE
   Transactions on Magnetics
 - [ENERGIES](https://www.mdpi.com/journal/energies) Energies
+- [IET](https://digital-library.theiet.org/)
 
 ## 1.3 会议 / Conferences
 
