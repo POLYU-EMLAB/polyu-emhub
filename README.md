@@ -173,7 +173,7 @@ transfer systems.
 
 - [pyaedt](https://github.com/pyansys/PyAEDT)
   ANSYS官方推出的基于.net和python的脚本工具，用于操作ANSYS Electronics Desktop。
-- [AutoWinding](https://github.com/POLYU-EMLAB/AutoWinding) 在ANSYS Maxwell
+- [AutoWinding](https://github.com/jiangmy97/AutoWinding_Matlab_Maxwell) 在ANSYS Maxwell
   2D/3D中为交流/直流电机排绕组及计算槽星型矢量图、相关参数。作者江明远，欢迎发送邮件至nmyjiang@foxmail.com或直接找他debug。
 - [getPF](https://github.com/POLYU-EMLAB/getPF)
   用C++和matlab写的求功率因数的程序，作者吴会欢，2017年写的，如果有问题请至issue留言。
