@@ -60,6 +60,9 @@ transfer systems.
 - [Thomas A. Lipo](https://scholar.google.com/citations?user=tqHzsE0AAAAJ&hl=zh-CN&oi=ao)
 - [K.T. Chau](https://scholar.google.com/citations?user=5wptXfQAAAAJ&hl=zh-CN)
 - [Z.Q. Zhu](https://scholar.google.com/citations?hl=zh-CN&user=kVk4re8AAAAJ)
+- [Dawei Li](https://scholar.google.com/citations?user=_AV1HeIAAAAJ&hl=zh-TW&oi=sra)
+- [Linni Jian](https://scholar.google.com/citations?user=34ysEk4AAAAJ&hl=zh-TW&oi=ao)
+- [Ming Cheng](https://scholar.google.com/citations?hl=zh-TW&user=pYLV-VEAAAAJ&view_op=list_works&sortby=pubdate)
 
 持续收集中…… TBD
 
