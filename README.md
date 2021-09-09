@@ -89,7 +89,7 @@ transfer systems.
 
 ## 3.1 冻结磁导率 / Frozen Permeability
 
-- [文献部分](docs/FrozenPermeability/readme.md) 毕言鼎整理，姜霁芙正在预备整理。
+- [文献部分](docs/FrozenPermeability) 毕言鼎整理，姜霁芙正在预备整理。
 - [程序部分与说明](https://github.com/POLYU-EMLAB/Forzen-permeability) 作者黄佳慧。
 
 ## 3.2 双转子电机 /
