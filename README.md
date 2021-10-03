@@ -85,6 +85,9 @@ transfer systems.
 - [Winding Scheme Calculator](http://www.bavaria-direct.co.za/scheme/calculator/)
   可视化效果更好的绕组设计小工具
 - [FAQ：如何加快Maxwell2D瞬态场求解速度？](https://mp.weixin.qq.com/s/Z6Q8c48AY6by-a27AyLeCQ) 来自“ANSYS中国”的推荐设置
+- [FAQ：如何区分Maxwell中的SolidLossStrandedLossStrandedLossR？](https://mp.weixin.qq.com/s/txnxiyJ30Rkd1M8zvombWQ) 来自“ANSYS中国”的推荐设置
+
+
 # [3. 特别主题 / Special topics](#目录-index)
 
 ## 3.1 冻结磁导率 / Frozen Permeability
